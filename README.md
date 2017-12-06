@@ -3,3 +3,5 @@
 # Wordpress
 # word
 # wp
+# wp
+# wordpress
